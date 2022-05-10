@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+## Observações
+Pequeno projeto simulando o campo de aumentar e diminuir quantidades do ifood, usando o conceito de hooks no React e boas práticas com demonstração usando useEffect e useState.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
